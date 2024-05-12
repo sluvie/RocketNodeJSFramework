@@ -1,0 +1,12 @@
+{
+    "user": {
+        "userid": "rocket",
+        "username": "rocket",
+        "name": "Go Rocket",
+        "email": ""
+    },
+    "application": {
+        "name": "rocket-nodejs-framework",
+        "version": "1.0.0"
+    }
+}

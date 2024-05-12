@@ -1,0 +1,36 @@
+{
+  "name": "rocket-nodejs-framework",
+  "version": "1.0.0",
+  "description": "Rocket NodeJS Framework",
+  "main": "app/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sluvie/RocketNodeJSFramework.git"
+  },
+  "keywords": [
+    "Rocket",
+    "NodeJS",
+    "Framework"
+  ],
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.1.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "moment": "^2.29.4",
+    "nodemon": "^3.1.0",
+    "path": "^0.12.7"
+  },
+  "author": "sluvie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sluvie/RocketNodeJSFramework/issues"
+  },
+  "homepage": "https://github.com/sluvie/RocketNodeJSFramework#readme"
+}
